@@ -9,3 +9,5 @@ assignment
 4. Insert sample data:
 ```bash
 mongo insert_books.js
+
+ Run queries: mongo queries.js
